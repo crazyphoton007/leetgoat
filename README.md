@@ -1,2 +1,2 @@
 # leetgoat
-Commit for all my struggle to ace leetcode
+Commit all my struggle to ace leetcode
