@@ -25,6 +25,8 @@
 # Output: [0]
 
 
+## For this time exceeds but understand how pointer moves
+
 class Solution:
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
 
